@@ -1,0 +1,3 @@
+Get the .db file from whatsapp databases. Make sure its crypt15.
+Make a file called key.key and paste the 64 character hash key into it. 
+Run decode_wa_db.bat

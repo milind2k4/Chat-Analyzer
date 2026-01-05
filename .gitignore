@@ -1,0 +1,11 @@
+daily_chats/
+__pycache__/
+
+*.pyc
+*.crypt15
+*.db
+*.key
+test.*
+
+Database/result/
+Database/WhatsApp/
