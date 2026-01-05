@@ -6,6 +6,7 @@ __pycache__/
 *.db
 *.key
 test.*
+.json
 
 Database/result/
 Database/WhatsApp/
